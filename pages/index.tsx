@@ -133,7 +133,7 @@ export default function Home() {
       <Head>
         <title>AI Data Dashboard</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="author" content="Leniolabs_ LLC" />
+        <meta name="author" content="Christoph Feldmeier" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Container>

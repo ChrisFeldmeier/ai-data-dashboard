@@ -2,7 +2,7 @@
 
 AI Dashboard Generator is a powerful tool that makes it easy to generate insightful data visualizations from your existing tables or datasets. Give it a try and see how it can help you make sense of your data!
 
-![AI Dashboard Screenshot](ai-dashboard-screenshot.png)
+![AI Dashboard Screenshot](./public/ai-dashboard-screenshot.png)
 
 ## Installation
 

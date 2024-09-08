@@ -2,6 +2,8 @@
 
 AI Dashboard Generator is a powerful tool that makes it easy to generate insightful data visualizations from your existing tables or datasets. Give it a try and see how it can help you make sense of your data!
 
+Demo: https://ai-code-dashboard.vercel.app/
+
 ![AI Dashboard Screenshot](./public/ai-dashboard-screenshot.png)
 
 ## Installation
